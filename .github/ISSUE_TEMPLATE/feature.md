@@ -28,3 +28,4 @@ Note: Please search to see if a similar issue already exists.
 - [ ] A PR has been opened and accepted
 - [ ] All user acceptance criteria are met
 - [ ] All tests are passing
+- [ ] Documentation is updated/extended
